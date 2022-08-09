@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\Semminar001.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\Semminar001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\Semminar001.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\Semminar001.AssemblyInfo.cs
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\Semminar001.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\bin\Debug\net6.0\Semminar001.exe
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\bin\Debug\net6.0\Semminar001.deps.json
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\bin\Debug\net6.0\Semminar001.runtimeconfig.json
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\bin\Debug\net6.0\Semminar001.dll
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\bin\Debug\net6.0\Semminar001.pdb
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\Semminar001.dll
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\refint\Semminar001.dll
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\Semminar001.pdb
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\Semminar001.genruntimeconfig.cache
+C:\Users\HP\Desktop\Учеба Ваня\C sharp\№2\Semminar001\obj\Debug\net6.0\ref\Semminar001.dll
