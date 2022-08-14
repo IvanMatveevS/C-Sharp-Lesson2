@@ -23,4 +23,9 @@ case 4:
     Console.WriteLine(" x > 0, y < 0");
     break;
 }
+default:
+{
+    Console.WriteLine(" Введена не правильная четверть");
+    break; 
+}
 }
